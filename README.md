@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alimay17
 - 👀 I’m interested in DB Managment
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning python
 - 📫 How to reach me: Message me on discord @ cortaly#9295
 
 <!---
